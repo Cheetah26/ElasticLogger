@@ -1,0 +1,6 @@
+name: ElasticLogger
+version: '${version}'
+main: com.shanemongan.elasticlogger.ElasticLogger
+api-version: 1.19
+authors: [ Cheeath26 ]
+description: Log events from Minecraft and deliver them to an ElasticSearch server
